@@ -7,4 +7,5 @@ $test = 'abc';
 echo 'abc';
 $test = $test.'_dbdf';
 
+echo 'lalal';
 ?>
